@@ -1,2 +1,4 @@
-# git-learning
-Learning Git
+#GIT-LEARNING
+
+##REMOTE REPO
+This line will be present in remote repo.

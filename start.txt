@@ -1,4 +1,4 @@
-Test Git Quick Start Demo By Ashwani.
+Test Git Quick Start Demo By Ashwani main.
 This line is added in the nmynewbranch.
-This line is added in the myfeaturebranch.
-This line is added in the feture1 branch.
+This line is added in the myfeaturebranch main.
+This line is added in the feture1 branch main.
